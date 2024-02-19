@@ -1,6 +1,9 @@
 # 👋 Hi, I’m Rikesh Chandra
-- 👀 I’m interested in Databases, IaC and DevOps
+- :computer: Passionate about Databases, Infrastructure as Code (IaC), DevOps, and CI/CD
+- :chart_with_upwards_trend: Expert in the **SQL Server** technology stack, from database administration to architecture design
+- :trophy: 20+ years IT experience across Avaition, Manufacturing, Financial, and Retail sectors
 - 🌱 I’m currently learning CI/CD with Azure Pipelines and Configuration Management with Ansible
+- :zap: Fun Fact: I'm friendly and funny :smile:
 
 #### 
 <div >
