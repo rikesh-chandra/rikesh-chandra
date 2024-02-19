@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rikesh-chandra
+- 👀 I’m interested in Databases, IaC and DevOps
+- 🌱 I’m currently learning CI/CD with Azure Pipelines and Configuration Management with Ansible
